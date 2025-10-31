@@ -2,8 +2,6 @@
 
 A comprehensive analysis and comparison of multiple time series forecasting models applied to weather data, including temperature, humidity, and visibility predictions.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lojaine001/lojaine001/blob/main/ime%20Series%20Forecasting%20for%20weather.ipynb)
-
 ## Overview
 
 This project implements and compares various time series forecasting models to predict weather parameters. The analysis includes both traditional statistical methods and modern deep learning approaches, providing insights into their effectiveness for weather prediction tasks.
